@@ -19,3 +19,5 @@ while (num < 1000) {
   console.log(num);
   num = num + 2;
 }
+
+//ls
